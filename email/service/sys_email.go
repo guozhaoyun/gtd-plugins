@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/flipped-aurora/gva-plugins/email/utils"
+	"github.com/guozhaoyun/gtd-plugins/email/utils"
 )
 
 type EmailService struct {

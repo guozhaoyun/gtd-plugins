@@ -7,7 +7,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"github.com/flipped-aurora/gva-plugins/notify/global"
+	"github.com/guozhaoyun/gtd-plugins/notify/global"
 	"io/ioutil"
 	"net/http"
 	"net/url"

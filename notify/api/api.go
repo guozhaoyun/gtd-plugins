@@ -1,11 +1,11 @@
 package api
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/common/response"
-	notify_response "github.com/flipped-aurora/gva-plugins/notify/model/response"
-	"github.com/flipped-aurora/gva-plugins/notify/service"
 	"github.com/gin-gonic/gin"
+	notify_response "github.com/guozhaoyun/gtd-plugins/notify/model/response"
+	"github.com/guozhaoyun/gtd-plugins/notify/service"
+	"github.com/guozhaoyun/gtd2110/server/global"
+	"github.com/guozhaoyun/gtd2110/server/model/common/response"
 	"go.uber.org/zap"
 )
 

@@ -14,7 +14,7 @@
 在`plugin/notify/global/global.go` 文件中配置钉钉通知的URL ，Token 等
 
 ```go
-	//  在gin-vue-admin 主程序的initialize中的plugin的InstallPlugin 函数中写入如下代码
+	//  在gtd2110 主程序的initialize中的plugin的InstallPlugin 函数中写入如下代码
     PluginInit(PublicGroup, notify.CreateDDPlug(
         URL,
         Token,

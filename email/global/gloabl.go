@@ -1,5 +1,5 @@
 package global
 
-import "github.com/flipped-aurora/gva-plugins/email/config"
+import "github.com/guozhaoyun/gtd-plugins/email/config"
 
 var GlobalConfig = new(config.Email)

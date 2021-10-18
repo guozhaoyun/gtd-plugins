@@ -1,9 +1,7 @@
 package notify
 
 import (
-	"github.com/flipped-aurora/gva-plugins/notify/global"
-	"github.com/flipped-aurora/gva-plugins/notify/router"
-	"github.com/gin-gonic/gin"
+	"github.com/guozhaoyun/gtd-plugins/notify/global"
 )
 
 type ddPlugin struct {

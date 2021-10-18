@@ -1,9 +1,9 @@
 package email
 
 import (
-	"github.com/flipped-aurora/gva-plugins/email/global"
-	"github.com/flipped-aurora/gva-plugins/email/router"
 	"github.com/gin-gonic/gin"
+	"github.com/guozhaoyun/gtd-plugins/email/global"
+	"github.com/guozhaoyun/gtd-plugins/email/router"
 )
 
 type emailPlugin struct {
